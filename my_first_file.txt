@@ -4,3 +4,7 @@ git clone
 ls
 cd name of repo
 pwd
+git add (file name) Or -A
+git status
+git commit
+git push
