@@ -7,4 +7,4 @@ pwd
 git add (file name) Or -A
 git status
 git commit
-git push
+git push originmain
