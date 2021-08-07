@@ -1,0 +1,6 @@
+mkdir
+cd
+git clone
+ls
+cd name of repo
+pwd
